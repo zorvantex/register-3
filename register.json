@@ -5,6 +5,10 @@
     "kubecell": {
       "repo": "https://github.com/taosher/KubeCell",
       "target": "kubecell.pages.dev"
+    },
+    "zorvantex": {
+      "repo": "https://github.com/zorvantex/zorvantex.github.io",
+      "target": "zorvantex.github.io"
     }
   },
   "openrepos.sh": {},
